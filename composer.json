@@ -1,0 +1,15 @@
+{
+    "name": "vendor/nick",
+    "authors": [
+        {
+            "name": "Nick DAnello",
+            "email": "nick2874@hotmail.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"Nick\\":""
+		}
+	}
+}
